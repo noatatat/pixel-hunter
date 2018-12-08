@@ -1,6 +1,6 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
-* Студент: [Роман Слонов](https://up.htmlacademy.ru/ecmascript/2/user/40833).
+* Студент: `Неизвестно`.
 * Наставник: `Неизвестно`.
 
 ---
